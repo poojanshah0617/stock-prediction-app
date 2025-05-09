@@ -1,5 +1,0 @@
-com\genai\stockprediction\config\AlphaVantageClient.class
-com\genai\stockprediction\controller\StockController.class
-com\genai\stockprediction\service\StockService.class
-com\genai\stockprediction\config\GeminiClient.class
-com\genai\stockprediction\Main.class
